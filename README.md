@@ -1,4 +1,4 @@
-                                                   learn_rabbitmq
+                                                    learn_rabbitmq
 1)About the project.
 
 This project contains 2 microservices. 
